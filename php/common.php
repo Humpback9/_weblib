@@ -1,4 +1,7 @@
 <?php
+/**
+ * 
+ */
 define("TIME_STAMP", mktime());
 define('_COOKIE_DOMAIN_', '');
 
